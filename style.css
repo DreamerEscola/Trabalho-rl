@@ -18,3 +18,8 @@
 .cabecalho-image {
     width: 12%;
 }
+
+.rodape {
+    background-color: black;
+    color: white;
+}
